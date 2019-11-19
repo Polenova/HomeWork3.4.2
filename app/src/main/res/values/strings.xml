@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeWork3.4.2</string>
+    <string name="text" translatable="false">Hello, world!</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>Србски</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="Theme">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+</resources>
